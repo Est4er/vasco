@@ -1,0 +1,20 @@
+let numero1 = 13
+let numero2 = 12
+ 
+switch(resposta)
+case'*';
+  resposta = numero1 + numero2;
+    break;
+    console.log('+')
+case'+';
+  resposta = numero1 * numero2;
+   break
+   console.log('*')
+case'-'; 
+    resposta = numero1 - numero2
+    console.log('-')
+    break
+case'/';
+     resposta = numero1 / numero 2
+     console.log('/')
+    break
